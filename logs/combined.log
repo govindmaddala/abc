@@ -1,0 +1,62 @@
+{"level":"info","message":"Connection has been established successfully at 2:01:13 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 2:01:57 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 7:25:43 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 7:25:58 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 2:17:11 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 2:17:56 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 2:18:05 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /MyResume.pdf","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:06:57 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:09:56 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:24:38 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:24:44 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:27:30 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:27:41 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:29:23 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:33:52 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:35:30 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:38:10 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:38:33 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:39:45 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:40:31 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:41:03 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:42:05 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:47:48 pm","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:48:03 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:49:26 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:49:52 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 3:52:03 pm","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Connection has been established successfully at 4:45:05 pm","service":"user-service"}
+{"level":"error","message":"Error in connecting to db:  connect ECONNREFUSED ::1:5432","name":"SequelizeConnectionRefusedError","original":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"parent":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"service":"user-service","stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED ::1:5432\n    at Client._connectionCallback (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:133:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"}
+{"level":"error","message":"Error in connecting to db:  connect ECONNREFUSED ::1:5432","name":"SequelizeConnectionRefusedError","original":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"parent":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"service":"user-service","stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED ::1:5432\n    at Client._connectionCallback (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:133:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"error","message":"Error in connecting to db:  connect ECONNREFUSED ::1:5432","name":"SequelizeConnectionRefusedError","original":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"parent":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"service":"user-service","stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED ::1:5432\n    at Client._connectionCallback (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:133:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"error","message":"Error in connecting to db:  connect ECONNREFUSED ::1:5432","name":"SequelizeConnectionRefusedError","original":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"parent":{"address":"::1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"service":"user-service","stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED ::1:5432\n    at Client._connectionCallback (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:133:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (C:\\Users\\govindmaddala\\OneDrive\\Desktop\\mean\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
+{"level":"info","message":"Logged from loggerHelper: /favicon.ico","service":"user-service"}
